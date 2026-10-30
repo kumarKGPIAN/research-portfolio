@@ -16,15 +16,15 @@ Classification of Vehicular Motion Trajectories in a Traffic Video — M.Tech th
 
 Voice Recognition Using Neural Networks — B.Tech thesis.
 
-Connected Component Labeling — SPSD Lab capstone.
+Connected Component Labeling — Signal Processing System Design Lab capstone.
 
-Bayes Classifier — MLSP term project.
+Bayes Classifier — Machine Learning Signal Processing Lab term project.
 
-Correlation-Coefficient-Based Fast Template Matching Through Partial Elimination — DIP capstone.
+Correlation-Coefficient-Based Fast Template Matching Through Partial Elimination — Digital Image Processing capstone Project.
 
-Pulmonary Nodule Detection Based on a 3D Feature Pyramid Network — MIA capstone.
+Pulmonary Nodule Detection Based on a 3D Feature Pyramid Network — Medical Image Analsysis Term Project
 
-Publication
+**Publication**
 
 K. Konapalli, P. Yaswanthpavan, and N. Ghosh, “Traffic Vehicle Tracking and Trajectory Classification Using LSTM,” 2024 IEEE 21st India Council International Conference (INDICON), 2024.
 
