@@ -28,8 +28,3 @@ Publication
 
 K. Konapalli, P. Yaswanthpavan, and N. Ghosh, “Traffic Vehicle Tracking and Trajectory Classification Using LSTM,” 2024 IEEE 21st India Council International Conference (INDICON), 2024.
 
-View publication DOI
-
-Project Documentation
-
-Individual project pages will describe the objectives, methods, personal contributions, and available materials for each project.
